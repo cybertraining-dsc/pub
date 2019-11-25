@@ -1,6 +1,8 @@
 Document link list
 ==================
 
+* <https://cloudmesh-community.github.io/pub/vonLaszewski-e534.epub>
+* <https://cloudmesh-community.github.io/pub/vonLaszewski-e534.pdf>
 * <https://cloudmesh-community.github.io/pub/vonLaszewski-222.epub>
 * <https://cloudmesh-community.github.io/pub/vonLaszewski-222.pdf>
 * <https://cloudmesh-community.github.io/pub/vonLaszewski-big-data-applications.epub>
